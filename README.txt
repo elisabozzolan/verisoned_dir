@@ -1,6 +1,7 @@
-# Hello Brilliant GitHub
+# Hello Brilliant, Useful GitHub
 
-I am modifing the text of this file for seeing the difference
+This is a README.md file that will be used to describe this
+repository on GitHub
 
 This is an extra line of text added to the copy
-of README.txt in the cloned repository 
+of README.md in the cloned repository
