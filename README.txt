@@ -1,4 +1,4 @@
-# Hello GitHub
+# Hello Brilliant GitHub
 
 I am modifing the text of this file for seeing the difference
 
